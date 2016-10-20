@@ -9,3 +9,23 @@ eureka:
 spring:
   profiles: pronombre
 words: I,You,He,She,It
+
+---
+spring:
+  profiles: vervo
+words: ran,knew,had,saw,bought
+
+---
+spring:
+  profiles: articulo
+words: a,the
+
+---
+spring:
+  profiles: adjetivo
+words: reasonable,leaky,suspicious,ordinary,unlikely
+
+---
+spring:
+  profiles: sustantivo
+words: boat,book,vote,seat,backpack,partition,groundhog
