@@ -6,6 +6,6 @@ eureka:
       defaultZone: http://localhost:8010/eureka/
  
 ---
-spring
+spring:
   profiles: pronombre
 words: I,You,He,She,It
